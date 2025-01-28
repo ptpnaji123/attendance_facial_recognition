@@ -78,4 +78,3 @@ def RecognizeFaces():
     key = input("Enter any key to return main menu")
     mainMenu()
 mainMenu()
-
